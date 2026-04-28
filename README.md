@@ -1,6 +1,8 @@
 # ESP32-C6-GEEK Demo Repository
 
-This repository is a collection of vendor-style demonstration projects for the Waveshare ESP32-C6-GEEK board. It includes Arduino sketches, ESP-IDF sample applications, bundled Arduino libraries, a few sample images, and one prebuilt firmware image.
+This repository is a collection of demonstration projects for the Waveshare ESP32-C6-GEEK board. It includes Arduino sketches, ESP-IDF sample applications, bundled Arduino libraries, a few sample images, and one prebuilt firmware image.
+
+The example code started from [Waveshare's wiki](https://docs.waveshare.com/ESP32-C6-GEEK) -- original versions are all copyright Waveshare.  I've added a top-level README.md to help others collaborate with me on getting up to speed on these boards.   
 
 The examples are mostly independent of each other. Treat each example directory as its own small project.
 
